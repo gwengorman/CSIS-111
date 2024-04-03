@@ -1,2 +1,2 @@
 # Hello-World
-CSIS 101
+Intro to C++ code
