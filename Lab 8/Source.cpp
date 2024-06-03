@@ -30,7 +30,6 @@ int main()
 
 {
 
-	//In cout statement below substitute your name and lab number
 
 	cout << "Gwen Gorman -- Lab 8" << endl << endl;
 
